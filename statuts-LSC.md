@@ -1,3 +1,16 @@
+<!--
+
+---
+title: Statuts de l'association LSC
+description: ces statuts sont utilisés par l'association LSC qui est gérée un commun, elle pourra servir d'exemple à d'autres asscoiations que leur membres veulent gérer comme un commun.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+ > Ces statuts sont utilisés par l'association LSC qui est gérée un commun, elle pourra servir d'exemple à d'autres asscoiations que leur membres veulent gérer comme un commun.
+
 # LEGAL SERVICE FOR COMMONS - LSC-L1
 
 ## PRÉAMBULE
