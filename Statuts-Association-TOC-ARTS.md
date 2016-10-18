@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Charte de l'association Toc-Arts
+description: cette charte est utilisé par l'association Toc-Arts qui est gérée un commun, elle pourra servir d'exemple à d'autres asscoiations que leur membres veulent gérer comme un commun.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
 # STATUTS Association TOC-ARTS
 loi du 1er juillet 1901 et du décret du 16 août 1901
 
