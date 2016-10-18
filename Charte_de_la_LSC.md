@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Charte de l'association LSC
+description: cette charte est utilisé par l'association LSC qui est gérée un commun, elle pourra servir d'exemple à d'autres asscoiations que leur membres veulent gérer comme un commun.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
 # Charte de la LSC
 ·
 
