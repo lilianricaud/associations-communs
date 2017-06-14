@@ -87,6 +87,8 @@ Cette charte aura même force que les statuts et devra être suivie comme tel pa
 
 ## Source: 
 
+CC-BY-SA Coroutine
+
 - https://docs.google.com/document/d/1GdRrNL8ftJgfjF2c9BdrENPcVcSX7x-PA3COqzVWFjU/edit
 - http://wiki.lacoroutine.org/
  
